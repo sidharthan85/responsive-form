@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+input[type="text"]::placeholder{
+    padding: 15px;
+} 
+input[type="password"]::placeholder{
+    padding: 15px;
+}    
+input[type="number"]::placeholder{
+    padding: 15px;
+} 
+input[type="email"]::placeholder{
+    padding: 15px;
+} 
+textarea::placeholder{
+    padding:0 0 0 12px;
+}
+.fontuser i{
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 8px;
+    color: gray;
+    
+}
+.fontlastname i{
+position: absolute;
+    color: gray;
+    margin-top: 11px;
+    margin-left: 8px;
+
+}
+.fontus i{
+position: absolute;
+margin-left: 8px;
+margin-top:18px;
+color: gray;
+}
+.fontphone i{
+position: absolute;
+color: gray;
+margin-top: 19px;
+margin-left: 8px;
+}
+.fontemail i{
+position: absolute;
+color: gray;
+align-items: left;
+margin-left: 8px;
+margin-top: 12px;
+}
+.fontdate i{
+position: absolute;
+color: gray;
+margin-left: 8px;
+margin-top: 20px;
+
+
+}
+.fonthome i{
+position: absolute;
+color: gray;
+margin-left: 8px;
+margin-top: 20px;
+}
+.fontoffice i{
+position: absolute;
+color: gray;
+margin-left: 8px;
+margin-top: 20px;
+
+}
+.pass i{
+color: gray;
+position: absolute;
+margin-left: 8px;
+margin-top: 19px;
+}
+.cpass i{
+position: absolute;
+color: gray;
+margin-left: 8px;
+margin-top: 19px;
+}
